@@ -54,18 +54,22 @@ Estudante e Programador, 24 anos, Santa Maria, RS.
 
 ## Habilidades
 
-- Nível Básico: Java, Python, PostgreSQL, Git
+- Design de Interfaces e Interações
 
-- Nível Intermediário: PHP, MySQL, Latex, JavaScript
+- Programação:
 
-- Nível Avançado: HTML, CSS
+	- Nível Básico: Java, Python, PostgreSQL, Git
+
+	- Nível Intermediário: PHP, MySQL, Latex, JavaScript
+
+	- Nível Avançado: HTML, CSS
 
 
 ## Interesses
 
-- Interação Humano-Computador
-
 - Desenvolvimento Web
+
+- Interação Humano-Computador
 
 - Visão Computacional
 
@@ -73,4 +77,4 @@ Estudante e Programador, 24 anos, Santa Maria, RS.
 
 - Open Source
 
-- Experiência de Usuário
+- Experiência de Usuário (UX)
