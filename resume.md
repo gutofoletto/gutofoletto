@@ -59,7 +59,7 @@ Phone: +55 (55) 9.8132-1328
 - 2016 | Politowski, C.; Vargas, D.; Fontoura, L.M.; Foletto, A.A. **Software Engineering Processes in Game Development: A Survey About Brazilian Developers' Experiences**. XV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2016). São Paulo, SP.
 
 - 2013 | 3º place. **2º Concurso de Dados Abertos do Ministério da Justiça e W3C Brasil**  
-*O Aplicativo MapPRF (Mapeamento de Ocorrências da Polícia Rodoviária Federal) apresenta gráficos e índices das rodovias brasileiras de acordo com os dados abertos da Polícia Rodoviária Federal.*
+*The app MapPRF (Mapeamento de Ocorrências da Polícia Rodoviária Federal) presents charts and indicators related to brazilian traffic that were obtained from PRF's open data.
 
 - 2013 | 1º place. **Best Live Team Project**  
 *Acknowledgement given to the best project developed by a team on the 'Live Team Project' subject. The award was judged by professors of the University of East London and Cyber-Duck Digital Agency's managers.*
@@ -93,4 +93,4 @@ Phone: +55 (55) 9.8132-1328
 
 ## Reviewer
 
-- **EATI: Encontro Anual de Tecnologia da Informação**. *Peer review of academic papers*. (2014, 2015, 2016, 2017)
+- **EATI: Encontro Anual de Tecnologia da Informação**. *Peer review of scientific papers*. (2014, 2015, 2016, 2017)
