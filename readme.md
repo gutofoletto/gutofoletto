@@ -12,14 +12,21 @@ Linkedin: http://linkedin.com/in/gutofoletto
 
 ## About Me
 
+I started studying about web development in 2007. Since then, I have obtained a master's degree in computer science, studied abroad, earned awards and scholarships throughout my academic journey.
+
+**Today, I am software developer with focus on front-end web development**. But I can also work with back-end development when needed. Overall, I have a good knowledge base that allows me to understand new technologies quickly.
+
+I learned the importance of sharing knowledge when I had the opportunity to be a lecturer to undergraduate students. Consequently, I started sharing with others by speaking and attending technology conferences and events.
+
+Moreover, I like to study about user experience and human-computer interaction. That interest combined with my academic and technical background, **resulted in a skill set that covers the basic steps of a digital product's development, from information architecture to design and prototype**. 
 
 
 
 ## Education
 
-- Mar 2015 ⟶ Apr 2017 | **Master of Computer Science** –– Federal University of Santa Maria; Santa Maria, RS.
-
 - Mar 2016 ⟶ Jul 2017 | **Special Graduation Program: Formation of Professors for Professional Education** –– Federal University of Santa Maria; Santa Maria, RS.
+
+- Mar 2015 ⟶ Apr 2017 | **Master of Computer Science** –– Federal University of Santa Maria; Santa Maria, RS.
 
 - Sep 2009 ⟶ Dec 2013 | **Technology in Internet Systems** –– Federal University of Santa Maria; Frederico Westphalen, RS.
 
@@ -103,17 +110,13 @@ Linkedin: http://linkedin.com/in/gutofoletto
 - 2014 | Workshop at **EATI: Encontro Anual de Tecnologia da Informação**. *Front-end Development with Sass, Compass and Grunt*. Frederico Westphalen, RS. http://eati.info/eati/2014
 
 
-## Reviewer
-
-- **EATI: Encontro Anual de Tecnologia da Informação**. *Peer review of scientific papers*. (2014; 2015; 2016; 2017)
-
-
 ## Events
 
 - **BrazilJS**. *Attendee* (2014; 2015; 2016; 2017)
 - **FrontinSM**. *Attendee* (2015)
 - **W3C Web.br**. *Attendee* (2015; 2014)
 - **EATI: Encontro Anual de Tecnologia da Informação**. *Attendee and Organizer* (2010; 2011; 2012; 2014; 2015)
+- **EATI: Encontro Anual de Tecnologia da Informação**. *Peer reviewer of scientific papers*. (2014; 2015; 2016; 2017)
 - **FISL**. *Attendee** (2010; 2011; 2012)
 
 

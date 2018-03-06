@@ -9,8 +9,16 @@ Github: http://github.com/gutofoletto
 
 Linkedin: http://linkedin.com/in/gutofoletto
 
----
----
+## Sobre
+
+Iniciei meus estudos sobre desenvolvimento web em 2007. Desde então, obtive um mestrado em ciência da computação, estudei no exterior e ganhei reconhecimentos e bolsas durante a minha jornada acadêmica.
+
+**Hoje, sou desenvolvedor de software com foco em desenvolvimento web front-end**. Também posso trabalhar com desenvolvimento de back-end quando necessário. De modo geral, tenho uma boa base de conhecimento que me permite entender novas tecnologias rapidamente.
+
+Aprendi a importância de compartilhar conhecimento quando tive a oportunidade de ser professor de alunos de graduação. Desde então, tenho procurado compartilhar com os outros através de palestras e participando de conferências e eventos de tecnologia.
+
+Além disso, eu gosto de estudar sobre experiência do usuário (UX) e a interação humano-computador (IHC). Esse interesse combinado com o meu histórico acadêmico e técnico, **resultou em um conjunto de habilidades que abrange as etapas básicas do desenvolvimento de um produto digital, desde a arquitetura da informação até design e protótipação**.
+
 
 ## Educação
 
@@ -28,10 +36,10 @@ Linkedin: http://linkedin.com/in/gutofoletto
 ## Experiência
 
 - Jul 2017 ⟶ Hoje | **Programador Frontend**; Beagle Ship Ltd; Santa Maria, RS.  
-	> *Programador frontend atuando no desenvolvimento de websites, sistemas e produtos digitais para Web*
+	> *Sou responsável por supervisionar os designers e atuar no desenvolvimento front-end de websites, sistemas e produtos digitais para Web. Também, trabalho em tarefas de back-end com python/django quando necessário.*
 
 - Mar 2015 ⟶ Mar 2017 | **Bolsista de Mestrado CAPES**; Universidade Federal de Santa Maria; Frederico Westphalen, RS.  
-	> *Grupo de Computação Aplicada na Saúde, linha de pesquisa de Interfaces Naturais Inteligentes. O projeto envolve o desenvolvimento de Jogos Sérios combinado com Interfaces Naturais para auxiliar nos programas de reabilitação de movimentos finos da Fisioterapia.*
+	> *Grupo de Computação Aplicada na Saúde, linha de pesquisa de Interfaces Naturais Inteligentes. O projeto consistia no desenvolvimento de Jogos Sérios combinados com Interfaces Naturais para auxiliar nos programas de reabilitação de movimentos finos da Fisioterapia.*
 
 - Abr 2014 ⟶ Jan 2015 | **Professor Substituto**; Universidade Federal de Santa Maria; Frederico Westphalen, RS.  
 	> *Professor substituto nos cursos de Tecnologia em Sistemas para Internet e Técnico em informática ministrando as disciplinas de Web Design I, Web Design II, Tratamento de Imagens Digitais, Interação Humano–Computador, Frameworks para Desenvolvimento Web e Sistemas Operacionais.*
@@ -98,16 +106,12 @@ Linkedin: http://linkedin.com/in/gutofoletto
 - 2014 | Workshop at **EATI: Encontro Anual de Tecnologia da Informação**. *Front-end Development with Sass, Compass and Grunt*. Frederico Westphalen, RS. http://eati.info/eati/2014
 
 
-## Reviewer
-
-- **EATI: Encontro Anual de Tecnologia da Informação**. *Avaliação de artigos científicos*. (2014; 2015; 2016; 2017)
-
-
 ## Events
 
 - **BrazilJS**. *Participante* (2014; 2015; 2016; 2017)
 - **FrontinSM**. *Participante* (2015)
 - **W3C Web.br**. *Participante* (2015; 2014)
 - **EATI: Encontro Anual de Tecnologia da Informação**. *Participante e Organizador* (2010; 2011; 2012; 2014; 2015)
+- **EATI: Encontro Anual de Tecnologia da Informação**. *Revisor/Avaliador*. (2014; 2015; 2016; 2017)
 - **FISL**. *Participante** (2010; 2011; 2012)
 
