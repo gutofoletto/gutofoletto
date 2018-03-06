@@ -17,7 +17,7 @@ Iniciei meus estudos sobre desenvolvimento web em 2007. Desde então, obtive um 
 
 Aprendi a importância de compartilhar conhecimento quando tive a oportunidade de ser professor de alunos de graduação. Desde então, tenho procurado compartilhar com os outros através de palestras e participando de conferências e eventos de tecnologia.
 
-Além disso, eu gosto de estudar sobre experiência do usuário (UX) e a interação humano-computador (IHC). Esse interesse combinado com o meu histórico acadêmico e técnico, **resultou em um conjunto de habilidades que abrange as etapas básicas do desenvolvimento de um produto digital, desde a arquitetura da informação até design e protótipação**.
+Além disso, eu gosto de estudar sobre experiência do usuário (UX) e a interação humano-computador (IHC). Esse interesse combinado com o meu histórico acadêmico e técnico, **resultou em um conjunto de habilidades que abrange as etapas básicas do desenvolvimento de um produto digital, desde a arquitetura da informação até design e prototipação**.
 
 
 ## Educação
