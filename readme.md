@@ -1,9 +1,5 @@
 # Antonio Augusto Foletto
-26 years; Santa Maria, RS.
-
-Phone: +55 (55) 9.8132-1328
-
-Email: gutofoletto@gmail.com
+28 years; Santa Maria, RS.
 
 Github: http://github.com/gutofoletto
 
