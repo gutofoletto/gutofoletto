@@ -33,8 +33,10 @@ Moreover, I like to study about user experience and human-computer interaction. 
 
 ## Experience
 
-- Apr 2018 ⟶ present | **Web Developer**; Codeminer 42; Santa Maria, RS.
-  > *I am working as a Web Developer for Brazilian and Worldwide customers. I worked on projects for Riot, Omnitrade and *
+- Nov 2020 ⟶ Present | **Front-end Engineer**; Loadsmart; Chicago , IL (Remote).
+
+- Apr 2018 ⟶ Nov 2020 | **Web Developer**; Codeminer 42; Santa Maria, RS.
+  > *I worked as Software Engineer for Brazilian and Worldwide customers. At Codeminer42 we had high quality standards for code and we enforced the implementation of automated tests (both unit and integrations testes) in order to guarantee that. I had the opportunity to work for clients like Riot, iFood, GoDaddy and work with technologies like JavaScript (ES6+), React, Redux, Vue, Vuex, Jest, Cypress.*
 
 - Jul 2017 ⟶ Apr 2018 | **Front-end Developer**; Beagle Ship Ltd; Santa Maria, RS.
   > *I was responsible for supervising web designers and coding the front-end layer of digital products (websites and web applications). I also worked with python/django on back-end tasks when required.*
@@ -85,7 +87,7 @@ Moreover, I like to study about user experience and human-computer interaction. 
 
 - 2017 | Foletto, A.A. d'Ornellas, M.C. Prado. A.L. **Serious Games for Parkinson's Disease Fine Motor Skills Rehabilitation Using Natural Interfaces**. Medinfo, 2017. Hangzhou, China.
 
-- 2016 | Politowski, C.; Vargas, D.; Fontoura, L.M.; Foletto, A.A. **Software Engineering Processes in Game Development: A Survey About Brazilian Developers' Experiences**. XV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2016). São Paulo, SP.
+- 2016 | Politowski, C.; Vargas, D.; Fontoura, L.M.; Foletto, A.A. **Software Engineering Processes in Game Development: A Survey About Brazilian Developers' Experiences**. XV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2016). São Paulo, SP.
 
 - 2013 | 3rd place. **2º Concurso de Dados Abertos do Ministério da Justiça e W3C Brasil**
   > *The app MapPRF (Mapeamento de Ocorrências da Polícia Rodoviária Federal) presents charts and indicators related to brazilian traffic that were obtained from PRF's open data.*
