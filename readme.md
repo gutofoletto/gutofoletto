@@ -1,10 +1,7 @@
 # Antonio Augusto Foletto
-28 years; Santa Maria, RS.
-
-Github: http://github.com/gutofoletto
-
 Linkedin: http://linkedin.com/in/gutofoletto
 
+Github: http://github.com/gutofoletto
 
 ## About Me
 
@@ -17,18 +14,13 @@ I learned the importance of sharing knowledge when I had the opportunity to be a
 Moreover, I like to study about user experience and human-computer interaction. That interest combined with my academic and technical background, **resulted in a skill set that covers the basic steps of a digital product's development, from information architecture to design and prototype**.
 
 
-
 ## Education
 
-- Mar 2016 ⟶ Jul 2017 | **Special Graduation Program: Formation of Professors for Professional Education** –– Federal University of Santa Maria; Santa Maria, RS.
-
-- Mar 2015 ⟶ Apr 2017 | **Master of Computer Science** –– Federal University of Santa Maria; Santa Maria, RS.
-
-- Sep 2009 ⟶ Dec 2013 | **Technology in Internet Systems** –– Federal University of Santa Maria; Frederico Westphalen, RS.
-
-- Sep 2012 ⟶ Sep 2013 | **Interactive Media Design** –– University of East London; Londres, UK.
-
-- Mar 2007 ⟶ Mar 2009 | **Technical Course in Web Development and Hypermedia** –– Centro de Educação Básica Francisco de Assis; Ijuí, RS.
+- 2016 ⟶ 2017 | **Special Graduation Program: Formation of Professors for Professional Education** –– Federal University of Santa Maria; Santa Maria, RS.
+- 2015 ⟶ 2017 | **Master of Computer Science** –– Federal University of Santa Maria; Santa Maria, RS.
+- 2009 ⟶ 2013 | **Technology in Internet Systems** –– Federal University of Santa Maria; Frederico Westphalen, RS.
+- 2012 ⟶ 2013 | **Interactive Media Design** –– University of East London; Londres, UK.
+- 2007 ⟶ 2009 | **Technical Course in Web Development and Hypermedia** –– Centro de Educação Básica Francisco de Assis; Ijuí, RS.
 
 
 ## Experience
@@ -113,11 +105,8 @@ Moreover, I like to study about user experience and human-computer interaction. 
 
 ## Events
 
-- **BrazilJS**. *Attendee* (2014; 2015; 2016; 2017)
-- **FrontinSM**. *Attendee* (2015)
-- **W3C Web.br**. *Attendee* (2015; 2014)
-- **EATI: Encontro Anual de Tecnologia da Informação**. *Attendee and Organizer* (2010; 2011; 2012; 2014; 2015)
-- **EATI: Encontro Anual de Tecnologia da Informação**. *Peer reviewer of scientific papers*. (2014; 2015; 2016; 2017)
-- **FISL**. *Attendee** (2010; 2011; 2012)
+- **EATI: Encontro Anual de Tecnologia da Informação**. *Organizer* (2010; 2011; 2012; 2014; 2015)
+- **EATI: Encontro Anual de Tecnologia da Informação**. *Peer reviewer of scientific papers*. (2014; 2015; 2016; 2017; 2018; 2019; 2022; 2023)
+- **FRONTinSM**. *Organizer*. (2019)
 
 
